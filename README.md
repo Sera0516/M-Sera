@@ -79,7 +79,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sera0516&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🧠 Contribution Graph (3D Style)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sera0516&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ Stay tuned for updates!
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- 💼 LinkedIn: https://www.linkedin.com/in/sera-m-6aa6a136b/  
 - 📧 Email: seraselvam0516@gmail.com  
 
 ---
