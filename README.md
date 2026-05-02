@@ -70,8 +70,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sera0516&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sera0516&theme=tokyonight" />
 </p>
 
 ---
@@ -94,14 +94,13 @@
 
 ## 🌐 Portfolio
 
-🚧 Currently working on my personal portfolio website  
-Stay tuned for updates!
+🚧 Portfolio website coming soon...
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sera-m-6aa6a136b/  
+- 💼 LinkedIn: https://www.linkedin.com/in/sera-m-6aa6a136b/ 
 - 📧 Email: seraselvam0516@gmail.com  
 
 ---
@@ -115,4 +114,4 @@ Stay tuned for updates!
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B42F3,100:36BCF7&height=120&section=footer"/>
-</p>ations and continuously learning new technologies 🚀
+</p>
